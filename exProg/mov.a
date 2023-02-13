@@ -1,0 +1,4 @@
+ORG 100h
+;mov al, 2
+;mov al, 20h[100h]
+mov ah, al
